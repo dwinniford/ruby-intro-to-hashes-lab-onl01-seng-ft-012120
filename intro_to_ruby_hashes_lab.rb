@@ -1,9 +1,9 @@
 def new_hash
-
+  groceries = {}
 end
 
 def actor
-
+  
 end
 
 def monopoly
